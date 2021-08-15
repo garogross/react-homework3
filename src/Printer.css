@@ -1,0 +1,37 @@
+.printer-container{
+   background-color: #13007b78;
+   width: 200px;
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   border-radius: 10px;
+   padding: 10px;
+   margin: 20px;
+
+   
+}
+input{
+  padding: 8px 12px;
+  margin: 10px 0;
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  outline: none;
+}
+.btn{
+ cursor: pointer;
+ background-color: #fff;
+ padding: 8px 12px;
+ margin: 10px;
+ border: none;
+ border-radius: 10px;
+ 
+}
+.btn:hover{
+ color: #fff;
+ background-color: #ccc
+}
+
+span{
+ margin: 0 10px
+}
